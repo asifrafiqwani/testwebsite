@@ -1,0 +1,79 @@
+.navbar-custom {
+	
+}
+
+.navbar a {
+	color:Black;
+	font-weight:bold;
+	
+}
+.navbar-nav li  a:hover {
+	background:silver;
+}
+header	{
+height:450px;
+width:100%;
+
+
+}	
+header h1{
+	font-size:50px;
+
+	text-shadow:2px 2px 2px black;
+}
+header p {
+	font-size:20px;
+	text-shadow:1px 1px 1px black;
+} 
+ .block-a { 
+	 font-size:20px;
+	 margin:20px 0;
+	 border-top:1px solid gray;
+	 padding:5px 0; 
+ }
+  .block-b { 
+	 font-size:20px;
+
+	 border-bottom:1px solid gray;
+	 padding:5px 0; 
+	 background: #f1f1f1;
+ }
+ carousel .item {
+  height: 450px;
+  width: 1366px;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+ 
+}
+
+.text-center {
+	padding:150px 0;
+}
+.thumbnail img {
+	height:350px;
+	width:400px;
+}
+.footer {
+
+padding:0;
+height:30px;
+width:100%;
+bottom:0;
+background: gray;
+color: white;
+
+}
+.change{
+	font-size:50px;
+	text-shadow:2px 2px 2px black;
+	
+	
+}
+.about_para {
+	font-size: 18px;
+	line-height: 30px;
+}
